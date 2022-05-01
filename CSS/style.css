@@ -1,0 +1,48 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+    box-shadow: 0 2px 5px black;
+}
+
+.quem-somos {
+    background-color: white;
+    color: #3c4653;
+    box-shadow: 0 2px 5px black;
+
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: grey;
+    box-shadow: 0 2px 5px black;
+    color: white;
+    
+}
+
+.servicos {
+    background-color: white;
+    box-shadow: 0 2px 5px black;
+}
+
+.bg-footer{
+    color: white;
+}
+
+.qs_text {
+    text-align: justify;
+    color: #868d95;
+    font: inherit;
+
+}
+
+.serv-text {
+    font-weight: bold;
+    padding-top: 20px;
+}
